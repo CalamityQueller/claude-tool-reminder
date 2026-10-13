@@ -1,17 +1,18 @@
 {
-  "name": "Tool Reminder Marketplace",
+  "name": "tool-reminder-marketplace",
   "owner": {
     "name": "CalamityQueller",
     "url": "https://github.com/CalamityQueller"
   },
   "version": "1.0.0",
+  "description": "Tool Usage Authorization Reminder Plugin Marketplace",
   "plugins": [
     {
-      "source": {
-        "source": "relative",
-        "path": ".claude-plugin"
-      },
-      "description": "在系统提示中注入工具使用授权章节，提醒 Claude 在使用工具前征求用户同意"
+      "name": "tool-reminder",
+      "source": "./plugin",
+      "description": "在系统提示中注入工具使用授权章节，提醒 Claude 在使用工具前征求用户同意",
+      "version": "1.0.0",
+      "author": "CalamityQueller"
     }
   ]
 }
