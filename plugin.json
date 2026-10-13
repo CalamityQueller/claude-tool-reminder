@@ -1,0 +1,6 @@
+{
+  "name": "tool-reminder",
+  "version": "0.1.0",
+  "description": "提醒 Claude 在合适的时机使用有用的工具",
+  "author": "binhh3815"
+}
