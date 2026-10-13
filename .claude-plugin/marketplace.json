@@ -9,7 +9,7 @@
       "author": "CalamityQueller",
       "repository": "https://github.com/CalamityQueller/claude-tool-reminder",
       "homepage": "https://github.com/CalamityQueller/claude-tool-reminder",
-      "pluginPath": "claude-plugin",
+      "pluginPath": ".claude-plugin",
       "tags": ["productivity", "permissions", "safety"]
     }
   ]
