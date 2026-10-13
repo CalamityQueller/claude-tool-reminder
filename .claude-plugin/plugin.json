@@ -1,6 +1,6 @@
 {
   "name": "tool-reminder",
-  "version": "0.1.0",
-  "description": "提醒 Claude 在合适的时机使用有用的工具",
-  "author": "binhh3815"
+  "version": "1.0.0",
+  "description": "在系统提示中注入工具使用授权章节,提醒 Claude 在使用工具前征求用户同意",
+  "author": "CalamityQueller"
 }
